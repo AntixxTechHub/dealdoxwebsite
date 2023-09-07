@@ -65,7 +65,7 @@ export default {
     'bootstrap-vue/nuxt',
     // https://go.nuxtjs.dev/axios
     '@nuxtjs/axios',
-    '@nuxtjs/sitemap',
+    // '@nuxtjs/sitemap',
     'nuxt-seo'
     // '@nuxtjs/strapi',
   ],
